@@ -1,6 +1,6 @@
 Raw Trello Importer
 
-Raw ruby code to import from Pivotal Tracker to Trello (piv_trello.rb) and from Kanbanery to Trello (trello_import) to be used for reference. Further OOP refactoring to be made and transformed into a different project.
+Raw ruby code to import from Pivotal Tracker to Trello (piv_trello.rb) and from Kanbanery to Trello (trello_import.rb) to be used for reference. Further OOP refactoring to be made and transformed into a different project.
 
 Using the Trello Importer
 
