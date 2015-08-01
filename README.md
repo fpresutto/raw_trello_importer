@@ -12,3 +12,4 @@ Using the Trello Importer
 - Install ruby-trello gem. `gem install ruby-trello`
 - Change username to own username from Trello
 - Change URL to one created on a project in Trello
+- Run importer file on the terminal to perform import
