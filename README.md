@@ -13,5 +13,5 @@ Using the Trello Importer
 - Enter name of the .csv file that is generated in Pivotal Tracker or Kanbanery in the code
 - Install ruby-trello gem. `gem install ruby-trello`
 - Change username to own username from Trello
-- Change URL to one created on a project in Trello
+- Change URL to one on a project created in Trello with your username
 - Run importer file on the terminal to perform import
